@@ -22,3 +22,4 @@ Once you have finished solving the exercises, be sure to commit your changes, pu
 
 Once you start working on the project, you will see a `./notebook/problems.ipynb` file containing a list of exercises. Complete each of them, one by one.
 
+# 4GEEK ACADEMY PROYECT
